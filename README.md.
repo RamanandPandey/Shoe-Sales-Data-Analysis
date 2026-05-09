@@ -1,15 +1,15 @@
-# Shoe Sales EDA Project
+➜ Shoe Sales EDA Project
 
-## Project Overview
+➜ Project Overview
 Performed Exploratory Data Analysis (EDA) on a shoe sales dataset using Python.
 
-## Tools Used
+➜ Tools Used
 - Python
 - Pandas
 - NumPy
 - Matplotlib
 
-## Analysis Performed
+➜ Analysis Performed
 - Data Cleaning
 - Missing Value Check
 - Duplicate Detection
@@ -18,7 +18,7 @@ Performed Exploratory Data Analysis (EDA) on a shoe sales dataset using Python.
 - Correlation Analysis
 - Outlier Detection
 
-## Dataset Features
+➜ Dataset Features
 - Brand
 - Country
 - Revenue
@@ -26,5 +26,5 @@ Performed Exploratory Data Analysis (EDA) on a shoe sales dataset using Python.
 - Price
 - Sales Channel
 
-## Conclusion
+➜ Conclusion
 The project analyzed sales patterns, revenue trends, and relationships between different variables.
